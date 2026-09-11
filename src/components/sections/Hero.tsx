@@ -86,7 +86,7 @@ export function Hero() {
               className="text-base leading-relaxed max-w-md"
               style={{ color: "var(--muted)" }}
             >
-              I build clean, performant applications with a focus on simplicity and user experience.
+              Im a third year computer science student at the University of Victoria
             </motion.p>
 
             {/* CTAs */}
